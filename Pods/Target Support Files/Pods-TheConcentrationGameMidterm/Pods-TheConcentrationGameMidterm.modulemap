@@ -1,0 +1,6 @@
+framework module Pods_TheConcentrationGameMidterm {
+  umbrella header "Pods-TheConcentrationGameMidterm-umbrella.h"
+
+  export *
+  module * { export * }
+}
